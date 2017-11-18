@@ -1,0 +1,29 @@
+html {
+  background-color:black;
+  text-align:center;
+  font-family:Verdana;
+}
+#title{
+  color:white;
+  font-size:50px;
+  font-weight:normal;
+}
+.cta{
+  font-size:16
+  #
+  px;
+}
+#guide{
+  font-size:42px;
+  font-weight:300;
+  color:white;
+}
+#remember{
+  color:grey;
+  font-size:21px;
+
+}
+#copyright{
+  text-align:right;
+  color:grey;
+}
